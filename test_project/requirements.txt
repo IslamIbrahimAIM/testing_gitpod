@@ -1,0 +1,6 @@
+requests
+scrapy
+scrapy-playwright
+numpy
+flask
+flask-cors
